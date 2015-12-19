@@ -8,12 +8,12 @@ combination with these modified Guild Wars 2 cursors. Be sure to read the
 [tutorial](https://pandateemo.github.io/YoloMouse/help.html) on how to add
 custom cursors.
 
-Currently only one variant is available. If you want, you can create your own
-variants by taking the images from the 'originals' folder. An easy way to create
-cursors is by using
+In the 'cursors' folder, you can find different packs. If you want, you can
+create your own pack by taking the images from the 'originals' folder. An easy
+way to create cursor files is by using
 [RealWorld Cursor Editor](http://www.rw-designer.com/cursor-maker).
-If you have created your own variants of the cursors, please share them by
-submitting a pull request.
+If you have created your own cursor pack, please share them by submitting a pull
+request.
 
 Please note that I do not own the copyright of both the original images and the
 modified ones; the copyright will always belong to ArenaNet. I provide these
