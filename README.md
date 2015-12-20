@@ -1,4 +1,4 @@
-# Guild Wars 2 icons for YoloMouse
+# Guild Wars 2 cursors for YoloMouse
 
 Anybody who has played Guild Wars 2, has probably come across the problem where
 you lose track of your mouse cursor. Maybe not as frequent as me, but most

@@ -46,6 +46,6 @@ File | Original                              | Default key-bind
 -    | ![255335](../../originals/255335.png) | N/A
 
 Note that when using these cursors, YoloMouse might use the wrong default size
-which might cause the cursors look too small or too big compared to the original
-cursors. When this happens, press `CTRL + ALT + Shift + -` multiple times until
-the cursors have their correct size.
+which might cause the cursors to look too small or too big compared to the
+original cursors. When this happens, press `CTRL + ALT + Shift + -` multiple
+times until the cursors have their correct size.
