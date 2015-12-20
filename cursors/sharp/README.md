@@ -33,14 +33,14 @@ File | Original                              | Default key-bind
 43   | ![255341](../../originals/255341.png) | `CTRL + ALT + Shift + 5` ×2
 44   | ![255347](../../originals/255347.png) | `CTRL + ALT + Shift + 5` ×3
 45   | ![255348](../../originals/255348.png) | `CTRL + ALT + Shift + 5` ×4
--    | ![547823](../../originals/547823.png) | N/A
--    | ![255342](../../originals/255342.png) | N/A
--    | ![255343](../../originals/255343.png) | N/A
--    | ![255346](../../originals/255346.png) | N/A
--    | ![255356](../../originals/255356.png) | N/A
--    | ![255357](../../originals/255357.png) | N/A
--    | ![255358](../../originals/255358.png) | N/A
--    | ![255359](../../originals/255359.png) | N/A
+46   | ![547823](../../originals/547823.png) | `CTRL + ALT + Shift + 5` ×5
+47   | ![255342](../../originals/255342.png) | `CTRL + ALT + Shift + 5` ×6
+48   | ![255343](../../originals/255343.png) | `CTRL + ALT + Shift + 5` ×7
+49   | ![255346](../../originals/255346.png) | `CTRL + ALT + Shift + 5` ×8
+50   | ![255356](../../originals/255356.png) | `CTRL + ALT + Shift + 6`
+51   | ![255357](../../originals/255357.png) | `CTRL + ALT + Shift + 6` ×2
+52   | ![255358](../../originals/255358.png) | `CTRL + ALT + Shift + 6` ×3
+53   | ![255359](../../originals/255359.png) | `CTRL + ALT + Shift + 6` ×4
 -    | ![255333](../../originals/255333.png) | N/A
 -    | ![255334](../../originals/255334.png) | N/A
 -    | ![255335](../../originals/255335.png) | N/A
