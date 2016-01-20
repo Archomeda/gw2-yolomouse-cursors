@@ -45,3 +45,8 @@ You can now assign the custom cursors to the Guild Wars 2 cursors.
 If this happens, then you might have a cursor pack with an odd cursor size (anything that isn't a multiple of 32x32).
 Apparently, YoloMouse can't scale it properly by default, which leads to either bigger (and pixelated) cursors, or smaller cursors compared to the original cursors.
 To solve this, scale the cursor down until it resets to its actual pixel size by pressing `Ctrl + Alt + Shift + -` repeatedly.
+
+- *I still don't know what's going on :confused:*
+<br>
+WoodenPotatoes has made a great [YouTube video](https://www.youtube.com/watch?v=1W6dSRh2axY) about YoloMouse and these cursors.
+He explains in detail on how to install both YoloMouse and these custom cursors.
