@@ -1,6 +1,6 @@
-These are the original cursors used by Guild Wars 2. The filenames correspond
-with the internal filename in the gw2.dat file. However, the icon packs may use
-a different order or might not even use certain icons at all.
+These are the original cursors used by Guild Wars 2.
+The filenames correspond with the internal filename in the gw2.dat file.
+However, the icon packs may use a different order or might not even use certain icons at all.
 
 File   | Image                 | Description
 -------|-----------------------|-------------
