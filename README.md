@@ -16,7 +16,7 @@ I provide these images to the community for free, in the hope that it will help 
 
 ## Downloads
 You can download the whole repository by pressing the 'Download ZIP' button at the top right corner of this page.
-Or, alternatively, you can click [here](archive/master.zip).
+Or, alternatively, you can click [here](https://github.com/Archomeda/gw2-yolomouse-cursors/archive/master.zip).
 This way you get the cursors all at once, and you don't have to download one by one.
 
 After downloading, grab your favorite cursor pack and add the cursors to YoloMouse ([follow the YoloMouse tutorial](https://pandateemo.github.io/YoloMouse/help.html)).
