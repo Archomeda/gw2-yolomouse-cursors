@@ -21,7 +21,7 @@ This way you get the cursors all at once, and you don't have to download one by 
 
 After downloading, grab your favorite cursor pack and add the cursors to YoloMouse ([follow the YoloMouse tutorial](https://pandateemo.github.io/YoloMouse/help.html)).
 Note that by default, you can only use one pack at a time.
-You can mix packs by renaming the cursor files to something unique (or replace other cursors).
+You can mix packs by renaming the cursor files to something unique (or by replacing other cursors).
 
 ## Troubleshooting
 - *I don't want to go through the effort of assigning all the cursors myself!*

@@ -1,5 +1,4 @@
 # Sharp cursors
-
 These sharp cursors are basically the original cursors with a black and smaller white border around it.
 Compared to the fat cursors, these cursors have a 1 pixel white border, instead of 3 pixels, which makes them less fat.
 The borders are also sharp, instead of rounded, which makes it easier to get used to the so-called "hot spot".
@@ -7,8 +6,6 @@ The borders are also sharp, instead of rounded, which makes it easier to get use
 If you want the keep the original cursors, while having a not-too-fat border around it, these cursors are the way to go.
 
 ## Preview
-Can you see the difference between how easy and difficult it is to spot both cursors in this somewhat-but-not-so-extreme chaotic FX mess?
-
 ![](preview.jpg)
 
 ## Cursor assignment

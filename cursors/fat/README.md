@@ -1,13 +1,10 @@
 # Fat cursors
-
 These fat cursors are basically the original cursors with a black and white border around it.
 The downsides to these cursors are that because of the border, it might be hard to get used to the so-called "hot spot" and the rounded borders themselves.
 
 But if you want the keep the original cursors, while having a fat border around it, these cursors are the way to go.
 
 ## Preview
-Can you see the difference between how easy and difficult it is to spot both cursors in this somewhat-but-not-so-extreme chaotic FX mess?
-
 ![](preview.jpg)
 
 ## Cursor assignment
