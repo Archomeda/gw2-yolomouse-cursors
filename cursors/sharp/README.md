@@ -38,6 +38,6 @@ File | Original                              | Default key-bind
 51   | ![255357](../../originals/255357.png) | `Ctrl + Alt + Shift + 6` ×2
 52   | ![255358](../../originals/255358.png) | `Ctrl + Alt + Shift + 6` ×3
 53   | ![255359](../../originals/255359.png) | `Ctrl + Alt + Shift + 6` ×4
-     | ![255333](../../originals/255333.png) | N/A
-     | ![255334](../../originals/255334.png) | N/A
-     | ![255335](../../originals/255335.png) | N/A
+N/A  | ![255333](../../originals/255333.png) | N/A
+N/A  | ![255334](../../originals/255334.png) | N/A
+N/A  | ![255335](../../originals/255335.png) | N/A
